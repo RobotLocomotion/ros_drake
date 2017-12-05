@@ -18,6 +18,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_export_depend>drake</build_export_depend>
+  <build_export_depend>tinyxml2</build_export_depend>
   <exec_depend>drake</exec_depend>
 
 </package>
