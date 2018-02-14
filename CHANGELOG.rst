@@ -2,8 +2,8 @@
 Changelog for package ros_drake
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2018-02-14)
+------------------
 * Remove drake from depends. rosdep will not resolve it
 * Contributors: Jose Luis Rivero
 
